@@ -1,3 +1,7 @@
+/**
+ * control class
+ * @author umi
+ */
 define(['jquery', 'underscore', 'lib/util', 'lib/keyManager', 'lib/event', 'dot/fireBall', 'lib/fireControl'], function($, _, Util, KeyManager, Event, FireBall, FireControl){
 	return Util.createClass({
 		EVENT_LANDING: 'landing',

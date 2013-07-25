@@ -1,3 +1,7 @@
+/**
+ * screen classs
+ * @author umi
+ */
 define(['jquery', 'lib/util'], function($, Util){
 	return Util.createClass({
 		initialize: function(id){

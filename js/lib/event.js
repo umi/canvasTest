@@ -1,3 +1,7 @@
+/**
+ * event class
+ * @author umi
+ */
 define(['jquery', 'underscore', 'lib/util'], function($, _, Util){
 	(function (w, r) {
 		w['r'+r] = w['r'+r] || w['webkitR'+r] || w['mozR'+r] || w['msR'+r]

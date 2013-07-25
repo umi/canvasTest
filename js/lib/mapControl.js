@@ -1,3 +1,7 @@
+/**
+ * mapControl class
+ * @author umi
+ */
 define(['jquery', 'underscore', 'lib/util', 'lib/keyManager', 'lib/event', 'lib/fireBall', 'lib/fireControl'], function($, _, Util, KeyManager, Event, FireBall, FireControl){
 	return Util.createClass({
 		p: {x: 0, y: 0},

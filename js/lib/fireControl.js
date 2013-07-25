@@ -1,3 +1,7 @@
+/**
+ * fireControl class
+ * @author umi
+ */
 define(['jquery', 'underscore', 'lib/util', 'lib/event'], function($, _, Util, Event){
 	return Util.createClass({
 		p: {x: 0, y: 0},

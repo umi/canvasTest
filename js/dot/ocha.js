@@ -1,3 +1,7 @@
+/**
+ * dot data ocha
+ * @author umi
+ */
 define(['jquery', 'underscore', 'lib/util', 'lib/color', 'lib/dot'], function($, _, Util, Color, Dot){
 	return Util.createClass({
 		height: 16,

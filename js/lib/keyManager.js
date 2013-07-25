@@ -1,3 +1,7 @@
+/**
+ * keyManager class
+ * @author umi
+ */
 define(['lib/util', 'underscore', 'lib/event'], function(Util, _, Event){
 	return Util.createSingleton({
 		_map: {

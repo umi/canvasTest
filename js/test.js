@@ -1,3 +1,7 @@
+/**
+ * test
+ * @author umi
+ */
 requirejs.config({
 	shim: {
 		jquery: {

@@ -1,3 +1,7 @@
+/**
+ * dot class
+ * @author umi
+ */
 define(['underscore', 'lib/util', 'lib/color'], function(_, Util, Color){
 	return Util.createClass({
 		initialize: function(d){

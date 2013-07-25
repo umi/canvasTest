@@ -1,3 +1,7 @@
+/**
+ * main class
+ * @author umi
+ */
 require.config({
 	shim: {
 		jquery: {

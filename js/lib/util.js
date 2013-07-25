@@ -1,3 +1,7 @@
+/**
+ * util class
+ * @author umi
+ */
 define(['underscore'], function(_){
 	return {
 		createClass: function(obj){
