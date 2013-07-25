@@ -1,0 +1,2 @@
+canvas, require.js test
+===============
